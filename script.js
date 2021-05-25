@@ -1,1 +1,2 @@
+# simpleInterestCalculator
 // create js file
